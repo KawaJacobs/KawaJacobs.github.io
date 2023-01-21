@@ -18,13 +18,13 @@ header{
     width: 98.6%;
 
 }
-.but{
+a{
     border-style: ridge;
     background-color: rgb(255, 214, 165);
     margin: 10px;
     border-color: white;
 }
-.but:hover{
+a:hover{
     border-color: rgba(0, 0, 255, 0.451);
     background-color: rgba(63, 218, 166, 0.391);
     color:aliceblue;
@@ -37,4 +37,7 @@ main{
 footer{
     border-style: ridge;
     background-color: blanchedalmond;
+}
+#repository_link{
+    font-size:20px;
 }
